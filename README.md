@@ -13,7 +13,7 @@ Below are some Projects I've developed or been part of, some core Technologies t
 - Various minecraft modding
 
 💻 Technology stack
-- **Languages:** Javascript/Typescript, Java, C#, HTML, CSS, Python, Bash and basic proficiency in many more
+- **Languages:** Lua, Javascript/Typescript, Java, C#, HTML, CSS, Python, Bash and basic proficiency in many more
 - **Platforms:** Desktop, Web, Mobile, Linux Server, Minecraft, Cloud
 - **Tools:** Git, Docker, Ansible, GitHub Actions, GitLab CI, Linux, Gradle, Prometheus & Grafana, Traefik
 - **Databases:** MongoDB, PostgreSQL, MySQL, Redis

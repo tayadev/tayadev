@@ -1,4 +1,4 @@
-👋 Heyo there! I'm [Taya](https://taya.one) *(she/they)*
+👋 Heyo there! I'm [Taya](https://taya.net) *(she/they)*
 
 I'm a self taught Full-stack Developer with additional experience in sysadmin, DevOps and tooling development.
 Below are some Projects I've developed or been part of, some core Technologies that I work with and where else you can find me :)
@@ -23,8 +23,8 @@ Below are some Projects I've developed or been part of, some core Technologies t
 - German
 
 ⚛️ Socials & Links
-- **Website:** [taya.one](https://taya.one)
-- **Mail:** [taya@taya.one](mailto://taya@taya.one)
+- **Website:** [taya.net](https://taya.net)
+- **Mail:** [taya@taya.one](mailto://taya@taya.net)
 - **Github:** [@tayadev](https://github.com/tayadev)
 - **Discord:** [Taya#5830](https://discordapp.com/users/140519560808759296)
 - **PGP Public Key:** [5e98ad6407b8d021](https://taya.one/pk.html)

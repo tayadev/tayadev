@@ -4,6 +4,7 @@ I'm a self taught Full-stack Developer with additional experience in sysadmin, D
 Below are some Projects I've developed or been part of, some core Technologies that I work with and where else you can find me :)
 
 📁 Projects
+- [Streamdeck Linux](https://github.com/tayadev/StreamdeckLinux) Deamon and cli to control elgato streamdeck devices on linux
 - [Climatestrike Switzerland](https://climatestrike.ch) Website
 - Sysadmin and DevOps for IT infrastructure of Climatestrike Switzerland and FridaysForFuture International
 - Direction of Broadcast and Video Production for many Climatestrike Projects

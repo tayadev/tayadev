@@ -25,8 +25,7 @@ Below are some Projects I've developed or been part of, some core Technologies t
 
 ⚛️ Socials & Links
 - **Website:** [taya.net](https://taya.net)
-- **Mail:** [taya@taya.one](mailto://taya@taya.net)
+- **Mail:** [taya@taya.net](mailto://taya@taya.net)
 - **Github:** [@tayadev](https://github.com/tayadev)
 - **Discord:** [Taya#5830](https://discordapp.com/users/140519560808759296)
-- **PGP Public Key:** [5e98ad6407b8d021](https://taya.one/pk.html)
 - **Donations:** [ko-fi](https://ko-fi.com/tayacrystals)

@@ -3,7 +3,10 @@
 I'm a self taught Full-stack Developer with additional experience in sysadmin, DevOps and tooling development.
 Below are some Projects I've developed or been part of, some core Technologies that I work with and where else you can find me :)
 
+> I am currently looking for a job, so if you think I might be a good fit for your team, please reach out
+
 📁 Projects
+- [Luma](https://github.com/tayadev/luma) Typed scripting language inspired by Lua and Rust.
 - [Streamdeck Linux](https://github.com/tayadev/StreamdeckLinux) Deamon and cli to control elgato streamdeck devices on linux
 - [Climatestrike Switzerland](https://climatestrike.ch) Website
 - Sysadmin and DevOps for IT infrastructure of Climatestrike Switzerland and FridaysForFuture International

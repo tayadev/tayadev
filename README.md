@@ -1,4 +1,4 @@
-👋 Heyo there! I'm [Taya](https://taya.net) *(she/they)*
+👋 Heyo there! I'm Taya *(she/they)*
 
 I'm a self taught Full-stack Developer with additional experience in sysadmin, DevOps and tooling development.
 If you want to learn more about me look on my website [taya.net](https://taya.net) :)
